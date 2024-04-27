@@ -1,0 +1,5 @@
+outs:
+- md5: 9a8bbaf6592bacfcb9ed2aeca245e026
+  size: 3532881
+  hash: md5
+  path: netflix_titles.csv
